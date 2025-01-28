@@ -2,3 +2,8 @@ venv/
 __pycache__/
 airflow.db
 logs/
+.env
+*.log
+airflow.cfg
+standalone_admin_password.txt
+run_dbt.sh
